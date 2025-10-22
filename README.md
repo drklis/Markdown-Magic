@@ -66,6 +66,16 @@ graph LR
     D --> E[Write Paper]
 ```
 
+### Academic Profiles: How to Make a Job Market Website Using GitHub Pages
+
+Professional websites showcase your work and make you more visible to potential employers and collaborators, and they are especially important for graduating PhD Students. 
+- You can learn how to create a simple website through GitHub Pages that uses Jekyll and Markdown by following the [skills/github-pages](https://github.com/skills/github-pages) repo.
+- 
+
+
+
+
+
 ## Workshop Activities
 #### Today's Activity
 
