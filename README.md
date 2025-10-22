@@ -69,8 +69,8 @@ graph LR
 ### Academic Profiles: How to Make a Job Market Website Using GitHub Pages
 
 Professional websites showcase your work and make you more visible to potential employers and collaborators, and they are especially important for graduating PhD Students. 
-- You can learn how to create a simple website through GitHub Pages that uses Jekyll and Markdown by following the [skills/github-pages](https://github.com/skills/github-pages) repo.
-- 
+1. You can learn how to create a simple website through GitHub Pages that uses Jekyll and Markdown by following the [skills/github-pages](https://github.com/skills/github-pages) repo.
+2. You can use our [Jekyll for Job market](https://github.com/ECON-691/Jekyll-for-Job-Market) repo to adapt your own simple academic job market profile (customized with NIU colors!).
 
 
 
