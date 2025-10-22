@@ -2,7 +2,7 @@
 
 *Welcome to "Mermaid Diagrams in Markdown"! Let's start with a simple flowchart.*
 
-Flowcharts are one of the most common diagram types in Mermaid. They help visualize processes, decisions, and workflows. Flowcharts are enclosed in a code block with the `mermaid` language tag.
+Flowcharts are one of the most common diagram types in Mermaid. They help visualize processes, decisions, and workflows. Mermaid code in Markdown documents (like here in GitHub, or in a Markdown editor like Obsidian) is enclosed in a code block with the `mermaid` language tag.
 
 ### Example:
 ````md
