@@ -17,7 +17,12 @@ Both LaTeX and Markdown are examples of markup language. You can learn how to us
 
 LaTeX is a markup language, based off of TeX. TeX was designed for scientists and mathematicians to write clean-looking academic papers that could render mathematical notation for printing and viewing on screens. 
 
-GitHub has incorporated LaTeX math notation directly into its Markdown rendering through [MathJax](https://www.mathjax.org/). By using the math environment delimiters directly in a Markdown (.md) file, you can display an equation as it was meant to be.
+GitHub has incorporated LaTeX math notation directly into its Markdown rendering through [MathJax](https://www.mathjax.org/). By using the math environment delimiters directly in a Markdown (.md) file, you can display an equation as it was meant to be. Math notation allows you to communicate complex mathematical ideas clearly, whether in documentation, homework, or research notes.
+
+### Visualizing Diagrams: Why use Mermaid?
+
+Mermaid diagrams help you visualize processes, relationships, and timelines without leaving your text editor or needing specialized software. Mermaid is a "JavaScript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically" ([MermaidChart.com "About Mermaid"](https://docs.mermaidchart.com/mermaid-oss/intro/index.html#about-mermaid)[^1]).
+
 
 #### Example
 
@@ -60,4 +65,6 @@ Let's consider the well-known **quadratic formula**, which takes the coeffiecien
 - [History of TeX and Some LaTeX Cheats](https://math.vanderbilt.edu/schectex/wincd/intro_to_tex.htm)
 - [WebLaTex, A Way to Code LaTeX in GitHub Codespaces](https://github.com/sanjib-sen/weblatex)
 - [Free Online Introduction to LaTeX](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1)), also available on [GitHub](https://github.com/jdleesmiller/latex-course/)
+
+[^1]: Accessed October 22, 2025.
 
