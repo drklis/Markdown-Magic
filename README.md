@@ -70,7 +70,7 @@ graph LR
 
 Professional websites showcase your work and make you more visible to potential employers and collaborators, and they are especially important for graduating PhD Students. 
 1. You can learn how to create a simple website through GitHub Pages that uses Jekyll and Markdown by following the tutorial available from the [skills/github-pages](https://github.com/skills/github-pages) repo.
-2. You can use our [Jekyll for Job market](https://github.com/ECON-691/Jekyll-for-Job-Market) repo to adapt your own simple academic job market profile (customized with NIU colors!).
+2. You can use our [Jekyll for Job Market](https://github.com/ECON-691/Jekyll-for-Job-Market) repo to adapt your own simple academic job market profile (customized with NIU colors!).
 
 ## Workshop Activities
 Choose your adventure - you can work through one, two, or all three of these activities! If you're a graduate student going on the job market within the next year, go ahead and skip to the academic website and start inputting your info, portrait, and job docs. For everyone else, we'll walk through math and Mermaid first.
@@ -90,22 +90,31 @@ Choose your adventure - you can work through one, two, or all three of these act
 9. Follow the instructions in "mermaid_instructions.md" and work in "mermaid_practice.md" to build flowcharts, timelines, and other diagrams.
 
 #### Job Market Websites in Markdown
-10. Clone the [Jekyll for Job market](https://github.com/ECON-691/Jekyll-for-Job-Market) repo and follow the instructions there.
+10. Clone the [Jekyll for Job Market](https://github.com/ECON-691/Jekyll-for-Job-Market) repo and follow the instructions there.
 
 ## What's in this repo?
 
 - A Markdown cheat sheet (from <a href="https://www.markdownguide.org/cheat-sheet/" target="_blank" rel="noreferrer noopener">MarkdownGuide</a>)
-- Instructions for the activity
+- Instructions for the Math and Mermaid activities
+- A template for an example math cover page
 - A template for a regression project repo
+- Examples of different Mermaid diagram types
 
 ## Want some links?
 
 'Course you do!
 
+#### LaTeX/Math Resources
 - [GitHub Doc on Writing Math](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
 - [History of TeX and Some LaTeX Cheats](https://math.vanderbilt.edu/schectex/wincd/intro_to_tex.htm)
 - [WebLaTex, A Way to Code LaTeX in GitHub Codespaces](https://github.com/sanjib-sen/weblatex)
 - [Free Online Introduction to LaTeX](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1)), also available on [GitHub](https://github.com/jdleesmiller/latex-course/)
+
+#### Mermaid Resources
+- [Mermaid Official Documentation](https://mermaid.js.org/), including the [Getting Started User Guide](https://mermaid.js.org/intro/getting-started.html)
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid), the official build of Mermaid available here on GitHub
+- [Mermaid Live Editor](https://mermaid.live/) - Use a GUI to build and test your diagrams in real-time
+- [rudolfolah/mermaid-diagram-examples](https://github.com/rudolfolah/mermaid-diagram-examples) - A repo of advanced examples of Mermaid diagrams from software engineer [Rudolf Olah](https://github.com/rudolfolah).
 
 [^1]: Accessed October 22, 2025.
 
