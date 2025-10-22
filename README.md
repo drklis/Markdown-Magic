@@ -11,8 +11,9 @@ For more about the basics of markup and Markdown, check out the [Learning-Markdo
 
 ![TechTaco](https://avatars.githubusercontent.com/u/145585316?s=48&v=4)
 
-## What is LaTeX?
-Both LaTeX and Markdown are examples of markup language. Today, we'll be learning how to use LaTeX math notation in Markdown to make pretty equations for repos and GitHub pages.
+## What You'll Learn
+### Math in Markdown: What is LaTeX?
+Both LaTeX and Markdown are examples of markup language. You can learn how to use LaTeX math notation in Markdown to make pretty equations for repos and GitHub pages.
 
 LaTeX is a markup language, based off of TeX. TeX was designed for scientists and mathematicians to write clean-looking academic papers that could render mathematical notation for printing and viewing on screens. 
 
