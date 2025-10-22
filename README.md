@@ -46,9 +46,17 @@ Having good documentation for your project/repo is crucial to building and promo
 
 #### Example
 
-Let's look at a simple flowchart about the research progess.
+Let's look at a simple flowchart about the research progess. Below you'll see the code snippet, and then that snippet rendered as a Mermaid chart.
 
 ```
+graph LR
+    A[Start Research] --> B{Review Literature}
+    B --> C[Collect Data]
+    C --> D[Analyze Results]
+    D --> E[Write Paper]
+```
+
+```mermaid
 graph LR
     A[Start Research] --> B{Review Literature}
     B --> C[Collect Data]
