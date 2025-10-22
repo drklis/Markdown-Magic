@@ -1,12 +1,18 @@
-# Tech Tacos: Using Math in Markdown (in GitHub)
+# Tech Tacos: Markdown Magic (in GitHub)
 
-Both LaTeX and Markdown are examples of markup language. Today, we'll be learning how to use LaTeX math notation in Markdown to make pretty equations for repos and GitHub pages.
+Welcome to Markdown Magic! This repository is designed for a Tech Taco workshop that explores three powerful ways to enhance your Markdown documents:
+1. **Math** Notation - Write beautiful equations using LaTeX
+2. **Mermaid** Diagrams - Create flowcharts, timelines, and more
+3. Job **Market** Websites - Build a professional job market profile
 
-For more about markup and Markdown, check out the [Learning-Markdown](https://github.com/drklis/Learning-Markdown) repo.
+Whether you're writing research papers, documenting code, planning projects, or building your professional presence, these tools will make your Markdown documents more expressive and professional.
+
+For more about the basics of markup and Markdown, check out the [Learning-Markdown](https://github.com/drklis/Learning-Markdown) repo.
 
 ![TechTaco](https://avatars.githubusercontent.com/u/145585316?s=48&v=4)
 
 ## What is LaTeX?
+Both LaTeX and Markdown are examples of markup language. Today, we'll be learning how to use LaTeX math notation in Markdown to make pretty equations for repos and GitHub pages.
 
 LaTeX is a markup language, based off of TeX. TeX was designed for scientists and mathematicians to write clean-looking academic papers that could render mathematical notation for printing and viewing on screens. 
 
