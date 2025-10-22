@@ -28,7 +28,7 @@ graph TD
 ### :keyboard: Activity: Create your first flowchart
 
 1. Edit the `mermaid_practice.md` file you created.
-2. Create a simple flowchart about a process you do regularly (e.g., making coffee, getting ready for class, starting homework).
+2. Create a simple flowchart about a process you do regularly (e.g., making coffee, getting ready for class, starting homework). (You can even copy the code snippet above and just change some of the syntax to update it for yourself!)
 3. Use at least 3 nodes connected with arrows.
 4. Use the **Preview** tab to check your diagram.
 5. Commit your changes.
