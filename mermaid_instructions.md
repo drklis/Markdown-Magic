@@ -33,8 +33,6 @@ graph TD
 4. Use the **Preview** tab to check your diagram.
 5. Commit your changes.
 
----
-
 ## Step 2: Adding Decisions (Diamond Shapes)
 
 *Great job with your first flowchart! Now let's add decision points.*
@@ -76,7 +74,6 @@ graph TD
 5. Use the **Preview** tab to check your formatting.
 6. Commit your changes.
 
----
 
 ## Step 3: Different Node Shapes
 
@@ -123,7 +120,6 @@ graph LR
 4. Use the **Preview** tab to check your formatting.
 5. Commit your changes.
 
----
 
 ## Step 4: Gantt Charts for Timelines
 
@@ -176,7 +172,7 @@ gantt
 5. Use the **Preview** tab to check your formatting.
 6. Commit your changes.
 
----
+
 
 ## Step 5: Pie Charts for Data
 
@@ -217,7 +213,7 @@ pie title Time Spent on Dissertation
 4. Use the **Preview** tab to check your formatting.
 5. Commit your changes.
 
----
+
 
 ## Step 6: Create Your Diagram Showcase
 
@@ -329,22 +325,3 @@ sequenceDiagram
 3. Include at least 3 participants.
 4. Commit your changes.
 
----
-
-## Tips for Success
-
-- **Use the Mermaid Live Editor** ([mermaid.live](https://mermaid.live/)) to test complex diagrams before adding them to your files
-- **Keep it simple** - Start with basic diagrams and add complexity gradually
-- **Use meaningful labels** - Your diagrams should be self-explanatory
-- **Check the preview often** - Mermaid syntax can be finicky, so preview early and often
-- **Explore the documentation** - Mermaid has many more diagram types and options to explore!
-
-## Additional Diagram Types to Explore
-
-- **Class Diagrams** - For showing object-oriented programming structures
-- **State Diagrams** - For showing system states and transitions
-- **Entity Relationship Diagrams** - For database design
-- **User Journey** - For mapping user experiences
-- **Git Graph** - For visualizing version control branching
-
-Check out the [Mermaid documentation](https://mermaid.js.org/) for examples and syntax guides for these diagram types!
