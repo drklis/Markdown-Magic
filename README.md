@@ -74,14 +74,16 @@ Professional websites showcase your work and make you more visible to potential 
 
 
 ## Workshop Activities
-Choose your adventure - you can work through one, two, or all three of these activities!
+Choose your adventure - you can work through one, two, or all three of these activities! If you're a graduate student going on the job market within the next year, go ahead and skip to the academic website and start inputting your info, portrait, and job docs. For everyone else, we'll walk through math and Mermaid first.
 
 ### Instructions
-1. Clone this repo for yourself. (
+1. Clone this repo for yourself. (Click the green "Use this template" button and follow the prompts.)
+
+#### Math in Markdown
 2. At the top of the page, click "Add file." Then, on the drop-down menu, right-click "Create new file" and open in a new tab.
-3. Name your file `mathpractice.md` and keep this tab open.
-4. Now, back in this tab, click on the file `instructions.md.` You can either open it in a new tab, or open it in this one.
-5. Follow the instructions in the "instructions.md" file and work in the "mathpractice.md" file you create. You can view your changes in either the preview tab, or by commiting your changes every so often.
+3. Name your file `math_practice.md` and keep the new tab open.
+5. Now, back in the first tab, click on the file `math_instructions.md.` You can either open it in a new tab, or open it in this one.
+6. Follow the instructions in the "math_instructions.md" file and work in the "math_practice.md" file you create to practice creating inline equations, display equations, matrices, and more! You can view your changes in either the preview tab, or by committing your changes every so often.
 
 ## What's in this repo?
 
