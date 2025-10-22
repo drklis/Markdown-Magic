@@ -73,13 +73,11 @@ Professional websites showcase your work and make you more visible to potential 
 2. You can use our [Jekyll for Job market](https://github.com/ECON-691/Jekyll-for-Job-Market) repo to adapt your own simple academic job market profile (customized with NIU colors!).
 
 
-
-
-
 ## Workshop Activities
-#### Today's Activity
+Choose your adventure - you can work through one, two, or all three of these activities!
 
-1. Clone this repo for yourself.
+### Instructions
+1. Clone this repo for yourself. (
 2. At the top of the page, click "Add file." Then, on the drop-down menu, right-click "Create new file" and open in a new tab.
 3. Name your file `mathpractice.md` and keep this tab open.
 4. Now, back in this tab, click on the file `instructions.md.` You can either open it in a new tab, or open it in this one.
