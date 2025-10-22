@@ -44,9 +44,11 @@ Mermaid is a "JavaScript based diagramming and charting tool that renders Markdo
 
 Having good documentation for your project/repo is crucial to building and promotion. Diagrams can assist with understanding complex processes, but drawing those diagrams takes time (by hand, with shapes in Word or Paint, with a whiteboard program like Lucidspark), especially if they can get outdated quickly by further developments. Mermaid attempts to address this by having you "code" the diagram, so that you don't have to switch to another program and save an image, but you can directly type it in the Markdown document. Even non-programmers (or those just starting to learn Mermaid) can create detaled diagrams using the [Mermaid Live Editor](https://mermaid.live/) online and copy the code over. Moreover, because the diagrams are text/code-based, they can be version-controled alongside the rest of your documentation. 
 
+Mermaid has a number of existing chart/diagram types that have already been coded and which you can learn to adjust with your data. These include flowcharts, sequence diagrams, Gantt charts, pie charts, and more.
+
 #### Example
 
-Let's look at a simple flowchart about the research progess. Below you'll see the code snippet, and then that snippet rendered as a Mermaid chart.
+Let's look at a simple flowchart about the research process. Below you'll see the code snippet, and then that snippet rendered as a Mermaid chart.
 
 ```
 graph LR
