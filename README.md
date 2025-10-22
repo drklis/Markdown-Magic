@@ -19,11 +19,6 @@ LaTeX is a markup language, based off of TeX. TeX was designed for scientists an
 
 GitHub has incorporated LaTeX math notation directly into its Markdown rendering through [MathJax](https://www.mathjax.org/). By using the math environment delimiters directly in a Markdown (.md) file, you can display an equation as it was meant to be. Math notation allows you to communicate complex mathematical ideas clearly, whether in documentation, homework, or research notes.
 
-### Visualizing Diagrams: Why use Mermaid?
-
-Mermaid diagrams help you visualize processes, relationships, and timelines without leaving your text editor or needing specialized software. Mermaid is a "JavaScript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically" ([MermaidChart.com "About Mermaid"](https://docs.mermaidchart.com/mermaid-oss/intro/index.html#about-mermaid)[^1]).
-
-
 #### Example
 
 Let's consider the well-known **quadratic formula**, which takes the coeffiecients in a quadratic form and solves for the variable value that sets the equation equal to zero. For this example, we will look at two equations: the quadratic form, and the quadratic formula. Each will be written in plain text, LaTeX math notation, and code snippet. Notice how much nicer the math looks when rendered properly!
@@ -43,6 +38,11 @@ Let's consider the well-known **quadratic formula**, which takes the coeffiecien
 | LaTeX | ```$x = \frac{-b \pm \sqrt{b^2 - 4 a c}}{2a}$```| $x = \frac{-b \pm \sqrt{b^2 - 4 a c}}{2a}$ |
 
 
+### Visualizing Diagrams: Why use Mermaid?
+
+Mermaid diagrams help you visualize processes, relationships, and timelines without leaving your text editor or needing specialized software. Mermaid is a "JavaScript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically" ([MermaidChart.com "About Mermaid"](https://docs.mermaidchart.com/mermaid-oss/intro/index.html#about-mermaid)[^1]).
+
+## Workshop Activities
 #### Today's Activity
 
 1. Clone this repo for yourself.
