@@ -85,6 +85,14 @@ Choose your adventure - you can work through one, two, or all three of these act
 5. Now, back in the first tab, click on the file `math_instructions.md.` You can either open it in a new tab, or open it in this one.
 6. Follow the instructions in the "math_instructions.md" file and work in the "math_practice.md" file you create to practice creating inline equations, display equations, matrices, and more! You can view your changes in either the preview tab, or by committing your changes every so often.
 
+#### Mermaid in Markdown
+7. Just like for math, we will work in two tabs. In one tab, click "Add file" to create a new file called `mermaid_practice.md`.
+8. Make sure to open the file `mermaid_instructions.md` in a separate tab.
+9. Follow the instructions in "mermaid_instructions.md" and work in "mermaid_practice.md" to build flowcharts, timelines, and other diagrams.
+
+#### Job Market Websites in Markdown
+10. Clone the [Jekyll for Job market](https://github.com/ECON-691/Jekyll-for-Job-Market) repo and follow the instructions there.
+
 ## What's in this repo?
 
 - A Markdown cheat sheet (from <a href="https://www.markdownguide.org/cheat-sheet/" target="_blank" rel="noreferrer noopener">MarkdownGuide</a>)
