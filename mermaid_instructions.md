@@ -214,114 +214,73 @@ pie title Time Spent on Dissertation
 5. Commit your changes.
 
 
+## Step 6: Explore with Mermaid Live Editor
 
-## Step 6: Create Your Diagram Showcase
+*Great job learning various Mermaid diagram types! Now let's explore even more possibilities with the Mermaid Live Editor.*
 
-*Great job learning various Mermaid diagram types! For the final step, let's create a showcase page.*
+The [Mermaid Live Editor](https://mermaid.live/) is an interactive playground where you can experiment with Mermaid diagrams in real-time. It's perfect for testing new diagram types, troubleshooting syntax, and discovering what's possible with Mermaid.
 
-Create a page that demonstrates different types of Mermaid diagrams. This could be for a project README, a research workflow, or a course planning document.
+### What is Mermaid Live?
 
-Your showcase should include:
+Mermaid Live is a free online tool that lets you:
+- Write Mermaid code and see the diagram update instantly
+- Browse sample diagrams to learn new syntax
+- Experiment without committing to your repository
+- Copy working code to paste into your Markdown files
 
-1. A descriptive title and introduction
-2. At least 3 different diagram types (flowchart, Gantt chart, pie chart, etc.)
-3. Brief explanations of what each diagram represents
-4. Professional formatting
+### :keyboard: Activity: Explore Mermaid Live
 
-### Example Structure:
-````md
-# My Research Project Workflow
+1. Open [mermaid.live](https://mermaid.live/) in a new browser tab.
+2. Click on the **"Sample Diagrams"** button (looks like a grid icon) in the top toolbar.
+3. Browse through the different diagram types available. You should see options like:
+   - Flowchart
+   - Sequence
+   - Class
+   - State
+   - Entity Relationship
+   - Gantt
+   - Pie
+   - Quadrant
+   - And many more!
+4. Click on at least **3-4 different sample diagrams** and observe:
+   - How does the code change for each diagram type?
+   - What patterns do you notice in the syntax?
+   - What kinds of information can each diagram type represent?
+5. **Try modifying** one of the sample diagrams:
+   - Change some text labels
+   - Add a new node or connection
+   - Adjust the colors or styles (if applicable)
+   - Watch how your changes update the diagram in real-time
+6. **Create something new**: Choose a diagram type that interests you and try to create your own diagram from scratch in the Live Editor.
+7. Once you have a diagram you like, **copy the code** and paste it into your `mermaid_practice.md` file.
+8. Commit your changes to GitHub and check that it renders correctly.
 
-This document outlines the workflow and timeline for my research project on [Topic].
+### Diagram Types to Explore
 
-## Research Process
-```mermaid
-graph TD
-    A[Identify Research Question] --> B{Literature Available?}
-    B -->|Yes| C[Review Literature]
-    B -->|No| D[Expand Search]
-    D --> B
-    C --> E[Design Study]
-    E --> F[Collect Data]
-    F --> G[Analyze Data]
-    G --> H[Write Paper]
-```
+Here are some interesting diagram types you'll find in the Sample Diagrams menu:
 
-## Project Timeline
-```mermaid
-gantt
-    title Research Timeline
-    dateFormat YYYY-MM-DD
-    section Phase 1
-    Literature Review    :2025-01-01, 2025-02-15
-    section Phase 2
-    Data Collection      :2025-02-15, 2025-04-01
-    Analysis            :2025-04-01, 2025-05-01
-```
+- **Class Diagram** - Shows object-oriented programming structures and relationships
+- **Entity Relationship** - Perfect for database design and showing how data tables connect
+- **State Diagram** - Shows how systems transition between different states
+- **Mindmap** - Great for brainstorming and organizing ideas hierarchically
+- **Timeline** - Alternative to Gantt charts for showing events chronologically
+- **Quadrant Chart** - Useful for prioritization matrices (urgent/important, etc.)
+- **Sankey** - Shows flow and proportions (like budget allocations)
+- **User Journey** - Maps out user experiences and emotions over time
 
-## Time Allocation
-```mermaid
-pie title Hours per Week by Activity
-    "Reading" : 15
-    "Data Analysis" : 10
-    "Writing" : 10
-    "Meetings" : 5
-```
-````
+### Tips for Using Mermaid Live
 
-### :keyboard: Activity: Create your diagram showcase
+- **Start with a sample** - It's easier to modify existing code than start from scratch when learning
+- **Watch for syntax errors** - If your diagram doesn't render, check for missing brackets, quotes, or keywords
+- **Use the export options** - You can download diagrams as PNG or SVG if needed
+- **Bookmark useful examples** - When you create something good, save the link or copy the code somewhere safe
+- **Don't be afraid to experiment** - The Live Editor is a safe space to try things out!
 
-1. Edit your `mermaid_practice.md` file or create a new file called `mermaid_showcase.md`.
-2. Create a showcase page following the structure above, but with your own content.
-3. Include at least 3 different types of Mermaid diagrams.
-4. Add explanatory text between diagrams.
-5. Use the **Preview** tab to check your formatting.
-6. Commit your changes.
+### Challenge: Find Your Favorite
 
----
+Explore the Sample Diagrams and find at least one diagram type that you haven't tried yet in Steps 1-5. Copy it into your `mermaid_practice.md` file and customize it with your own content. Some suggestions:
 
-## Bonus: Sequence Diagrams
-
-*Want to try something more advanced? Sequence diagrams show interactions over time.*
-
-Sequence diagrams are perfect for showing how different parts of a system (or people) interact.
-
-### Example:
-````md
-```mermaid
-sequenceDiagram
-    participant Student
-    participant Professor
-    participant TA
-    Student->>Professor: Ask question in class
-    Professor->>TA: Delegate to TA
-    TA->>Student: Provide answer
-    Student->>TA: Thank you!
-```
-````
-
-How it looks:
-````mermaid
-sequenceDiagram
-    participant Student
-    participant Professor
-    participant TA
-    Student->>Professor: Ask question in class
-    Professor->>TA: Delegate to TA
-    TA->>Student: Provide answer
-    Student->>TA: Thank you!
-````
-
-### Sequence Diagram Syntax:
-- Start with `sequenceDiagram`
-- Define participants: `participant Name`
-- Show interactions: `A->>B: Message text`
-- Use `-->>` for dashed lines (responses)
-
-### :keyboard: Bonus Activity: Try a sequence diagram
-
-1. Edit your `mermaid_practice.md` file.
-2. Create a sequence diagram showing an interaction (e.g., ordering food, submitting homework, peer review process).
-3. Include at least 3 participants.
-4. Commit your changes.
-
+- **Mindmap** - Create a mindmap of your research topics or course subjects
+- **Timeline** - Make a timeline of historical events relevant to your field
+- **Quadrant** - Create a priority matrix for your tasks or research goals
+- **User Journey** - Map out your daily routine or research workflow
