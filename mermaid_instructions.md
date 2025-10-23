@@ -233,6 +233,7 @@ Mermaid Live is a free online tool that lets you:
 1. Open [mermaid.live](https://mermaid.live/) in a new browser tab.
 2. Click on the **"Sample Diagrams"** button (looks like a grid icon) in the top toolbar.
 3. Browse through the different diagram types available. You should see familiar diagrams that we already covered - flowchart, Gantt chart, pie chart - as well as new options like:
+   - Mindmap
    - Sequence
    - Class
    - State
