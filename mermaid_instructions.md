@@ -232,15 +232,13 @@ Mermaid Live is a free online tool that lets you:
 
 1. Open [mermaid.live](https://mermaid.live/) in a new browser tab.
 2. Click on the **"Sample Diagrams"** button (looks like a grid icon) in the top toolbar.
-3. Browse through the different diagram types available. You should see options like:
-   - Flowchart
+3. Browse through the different diagram types available. You should see familiar diagrams that we already covered - flowchart, Gantt chart, pie chart - as well as new options like:
    - Sequence
    - Class
    - State
    - Entity Relationship
-   - Gantt
-   - Pie
    - Quadrant
+   - User Journey
    - And many more!
 4. Click on at least **3-4 different sample diagrams** and observe:
    - How does the code change for each diagram type?
@@ -275,12 +273,3 @@ Here are some interesting diagram types you'll find in the Sample Diagrams menu:
 - **Use the export options** - You can download diagrams as PNG or SVG if needed
 - **Bookmark useful examples** - When you create something good, save the link or copy the code somewhere safe
 - **Don't be afraid to experiment** - The Live Editor is a safe space to try things out!
-
-### Challenge: Find Your Favorite
-
-Explore the Sample Diagrams and find at least one diagram type that you haven't tried yet in Steps 1-5. Copy it into your `mermaid_practice.md` file and customize it with your own content. Some suggestions:
-
-- **Mindmap** - Create a mindmap of your research topics or course subjects
-- **Timeline** - Make a timeline of historical events relevant to your field
-- **Quadrant** - Create a priority matrix for your tasks or research goals
-- **User Journey** - Map out your daily routine or research workflow
