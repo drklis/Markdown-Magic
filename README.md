@@ -46,6 +46,8 @@ Having good documentation for your project/repo is crucial to building and promo
 
 Mermaid has a number of existing chart/diagram types that have already been coded and which you can learn to adjust with your data. These include flowcharts, sequence diagrams, Gantt charts, pie charts, and more.
 
+*Did you know? LaTeX can also create diagrams by loading the package TikZ, which uses a similar coding approach to diagrams as Mermaid. This would be done outside of Markdown, however.*
+
 #### Example
 
 Let's look at a simple flowchart about the research process. Below you'll see the code snippet, and then that snippet rendered as a Mermaid chart.
@@ -109,6 +111,7 @@ Choose your adventure - you can work through one, two, or all three of these act
 - [History of TeX and Some LaTeX Cheats](https://math.vanderbilt.edu/schectex/wincd/intro_to_tex.htm)
 - [WebLaTex, A Way to Code LaTeX in GitHub Codespaces](https://github.com/sanjib-sen/weblatex)
 - [Free Online Introduction to LaTeX](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1)), also available on [GitHub](https://github.com/jdleesmiller/latex-course/)
+- [Overleaf: TikZ package](https://www.overleaf.com/learn/latex/TikZ_package), an intro to using the TikZ package to drawing diagrams in LaTeX
 
 #### Mermaid Resources
 - [Mermaid Official Documentation](https://mermaid.js.org/), including the [Getting Started User Guide](https://mermaid.js.org/intro/getting-started.html)
