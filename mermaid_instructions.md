@@ -275,4 +275,4 @@ Here are some interesting diagram types you'll find in the Sample Diagrams menu:
 - **Bookmark useful examples** - When you create something good, save the link or copy the code somewhere safe
 - **Don't be afraid to experiment** - The Live Editor is a safe space to try things out!
 
-[^1] This activity was developed by [drklis](https://github.com/drklis) using Claude AI.
+[^1]: This activity was developed by [drklis](https://github.com/drklis) using Claude AI.
