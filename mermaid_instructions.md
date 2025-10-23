@@ -1,6 +1,6 @@
 ## Step 1: Simple Flowcharts
 
-*Welcome to "Mermaid Diagrams in Markdown"! Let's start with a simple flowchart.*
+*Welcome to "Mermaid Diagrams in Markdown"! Let's start with a simple flowchart.*[^1]
 
 Flowcharts are one of the most common diagram types in Mermaid. They help visualize processes, decisions, and workflows. Mermaid code in Markdown documents (like here in GitHub, or in a Markdown editor like Obsidian) is enclosed in a code block with the `mermaid` language tag.
 
@@ -274,3 +274,5 @@ Here are some interesting diagram types you'll find in the Sample Diagrams menu:
 - **Use the export options** - You can download diagrams as PNG or SVG if needed
 - **Bookmark useful examples** - When you create something good, save the link or copy the code somewhere safe
 - **Don't be afraid to experiment** - The Live Editor is a safe space to try things out!
+
+[^1] This activity was developed by [drklis](https://github.com/drklis) using Claude AI.
