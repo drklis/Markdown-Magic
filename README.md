@@ -117,6 +117,7 @@ Choose your adventure - you can work through one, two, or all three of these act
 - [Mermaid Official Documentation](https://mermaid.js.org/), including the [Getting Started User Guide](https://mermaid.js.org/intro/getting-started.html)
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid), the official build of Mermaid available here on GitHub
 - [Mermaid Live Editor](https://mermaid.live/) - Use a GUI to build and test your diagrams in real-time
+- [Flowcharts Syntax](https://mermaid.ai/open-source/syntax/flowchart.html) - See all the possible flowchart box types and general meanings
 - [rudolfolah/mermaid-diagram-examples](https://github.com/rudolfolah/mermaid-diagram-examples) - A repo of advanced examples of Mermaid diagrams from software engineer [Rudolf Olah](https://github.com/rudolfolah).
 
 [^1]: Accessed October 22, 2025.
